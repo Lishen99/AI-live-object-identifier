@@ -70,7 +70,7 @@ python main.py
 *   `main.py`: Entry point. Handles the event loop, window management, and user input.
 *   `detector.py`: Manages YOLO models, inference, tracking, and class filtering.
 *   `visualizer.py`: Handles all drawing, overlays, notifications, and the GUI input box.
-*   `camera.py`: robust video capture wrapper.
+*   `camera.py`: Robust video capture wrapper.
 
 ## 📝 License
 
